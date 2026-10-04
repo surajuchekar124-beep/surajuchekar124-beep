@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Hi there! 👋 I'm suraj uchekar
 
-### 🎓 Engineering Student | Aspiring Developer
+### 🎓 Engineering Student | Aspiring machine learner
 
 Welcome to my GitHub profile! I'm learning to code, exploring new technologies, and building projects along the way.
 
