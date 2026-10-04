@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hi there! 👋 I'm Piyush Mandhare
+# Hi there! 👋 I'm suraj uchekar
 
 ### 🎓 Engineering Student | Aspiring Developer
 
