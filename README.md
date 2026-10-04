@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm learning to code, exploring new technologies, 
 
 ## 📫 Connect With Me
 
-- 💻 GitHub: [https://surajuchekar124-beep )
+- 💻 GitHub: [https://www.github.com/in/surajuchekar124-beep)
 - 🔗 LinkedIn: [surajuchekar](https://www.linkedin.com/in/suraj-uchekar-8192b234a/)
 
 ---
